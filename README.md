@@ -13,12 +13,7 @@
 2. `My Stat`
 
 
-<style>
-img {
-  margin-left: 0 ;
-  margin-right: auto;
-}
-</style>
+
 <img src="https://github-readme-stats.vercel.app/api?username=nootifmemoty&show_icons=true&theme=tokyonight&hide_title=true&line_height=32" alt="img" width="400" >
 
 3. `My Top Coding Languages`
