@@ -22,6 +22,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nootifmemory/live2d-widget/pull/1) in [nootifmemory/live2d-widget](https://github.com/nootifmemory/live2d-widget)
+1. ❗️ Opened issue [#402](https://github.com/benjaminsampica/benjaminsampica/issues/402) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 2. 💪 Opened PR [#1](https://github.com/nootifmemory/live2d-widget/pull/1) in [nootifmemory/live2d-widget](https://github.com/nootifmemory/live2d-widget)
 <!--END_SECTION:activity-->
