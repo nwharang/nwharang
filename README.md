@@ -22,6 +22,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nootifmemory/nootifmemory.github.io/pull/1) in [nootifmemory/nootifmemory.github.io](https://github.com/nootifmemory/nootifmemory.github.io)
-2. 💪 Opened PR [#1](https://github.com/nootifmemory/nootifmemory.github.io/pull/1) in [nootifmemory/nootifmemory.github.io](https://github.com/nootifmemory/nootifmemory.github.io)
+1. ❗️ Closed issue [#1466](https://github.com/benjaminsampica/benjaminsampica/issues/1466) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+2. ❗️ Opened issue [#1466](https://github.com/benjaminsampica/benjaminsampica/issues/1466) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
