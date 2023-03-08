@@ -3,11 +3,6 @@
 
 1. `About Me`
 
-- 😙 My Name Is NooTif
-- 🔭 I’m currently working on learing GitHub
-- 🌱 I’m currently learning Java, AHK  
-- 😈 I'm Naughty 😈
-- **✨ And I'm CUTE ✨**
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 2. `My Stat`
